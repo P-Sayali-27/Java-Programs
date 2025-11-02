@@ -1,10 +1,10 @@
 package Arrays;
 
-
-public class ArraysWithFunction {
+/*
+public class clearArraysWithFunction {
 
     // Function to print a 1D array
-    public static void printOneDArray(int[] arr)
+    //public static void printOneDArray(int[] arr)
     {
         for (int element : arr) {
             System.out.print(element + " ");
@@ -59,3 +59,4 @@ public static void main(String[] args) {
 }
 
 
+*/
